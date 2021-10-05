@@ -1,2 +1,3 @@
 # codechefLongRun
-October challenge
+###October LongRun Challenge Codechef Codes
+
